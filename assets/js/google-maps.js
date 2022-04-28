@@ -1,4 +1,4 @@
-function initMap() {
+/*function initMap() {
     // Latitude and Longitude
     var myLatLng = {lat: -6.207690, lng: 106.985270};
 
@@ -13,3 +13,4 @@ function initMap() {
         title: 'South Jakarta, INA' // Title Location
     });
 }
+*/
