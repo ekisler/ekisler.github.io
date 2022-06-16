@@ -1,6 +1,6 @@
 # ekisler.github.io
 Emisael Kisler Portfolio Website ||
-Proffessional Web Developer
+Professional Web Developer
 
 
    ![Screenshot](./assets/img/logo/google.png)
